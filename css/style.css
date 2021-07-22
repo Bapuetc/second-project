@@ -122,7 +122,7 @@ button:hover{
    padding: 10px;
    grid-column-gap: 50px;
 }
-.projects > h4 {
+.projects-item{
   padding: 20px;
   text-align: center;
   
