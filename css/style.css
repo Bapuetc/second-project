@@ -117,7 +117,13 @@ button:hover{
     text-decoration: underline ;
 }
 .projects{
-    display: grid;
-    grid-column-gap: 70px;
+   display: inline-grid;
+   grid-template-columns: auto auto;
+   padding: 10px;
+   grid-column-gap: 50px;
 }
+.projects > h4 {
+  padding: 20px;
+  text-align: center;
+  
 
