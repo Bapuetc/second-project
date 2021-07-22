@@ -123,7 +123,5 @@ button:hover{
    grid-column-gap: 50px;
 }
 .projects-item{
-  padding: 20px;
   text-align: center;
-  
-
+}
