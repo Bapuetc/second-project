@@ -116,3 +116,8 @@ button:hover{
 .websites{
     text-decoration: underline ;
 }
+.projects{
+    display: grid;
+    grid-column-gap: 70px;
+}
+}
